@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPNCalculator.Services", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPNCalculator.Domain", "RPNCalculator.Domain\RPNCalculator.Domain.csproj", "{3738A8CE-339A-4985-9E9C-EAF210B6C051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.Services.Tests", "Calculator.Services.Tests\Calculator.Services.Tests.csproj", "{8B04A8E1-9F4F-4F5F-9734-9517956EF8E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3738A8CE-339A-4985-9E9C-EAF210B6C051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3738A8CE-339A-4985-9E9C-EAF210B6C051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3738A8CE-339A-4985-9E9C-EAF210B6C051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B04A8E1-9F4F-4F5F-9734-9517956EF8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B04A8E1-9F4F-4F5F-9734-9517956EF8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B04A8E1-9F4F-4F5F-9734-9517956EF8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B04A8E1-9F4F-4F5F-9734-9517956EF8E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
